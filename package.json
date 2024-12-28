@@ -2,11 +2,11 @@
   "devDependencies": {
     "serve": "^13.0.2"
   },
-  "name": "one-cklick",
+  "name": "edamame",
   "version": "1.0.0",
   "main": "index.html",
-  "repository": "https://github.com/yoidea/one-cklick.git",
-  "author": "yoidea <yoidea.cc@gmail.com>",
+  "repository": "https://github.com/edamame/edamame.git",
+  "author": "edamame <e.developer2024@gmail.com>",
   "license": "MIT",
   "scripts": {
     "start": "serve"
